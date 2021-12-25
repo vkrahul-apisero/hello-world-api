@@ -47,7 +47,7 @@
 						<objectStoreV2>${objectStoreV2}</objectStoreV2>
 						<properties>
 							<env>${env}</env>
-							<clientId>${client-Id}</clientId>
+							<clientId>${clientId}</clientId>
 						</properties>
 					</cloudHubDeployment>
 
