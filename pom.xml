@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>${project.name}</artifactId>
+	<artifactId>ram-shyam</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>${project.name}</name>
+	<name>abcd</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -47,6 +47,7 @@
 						<objectStoreV2>${objectStoreV2}</objectStoreV2>
 						<properties>
 							<env>${env}</env>
+							<clientId>${client-Id}</clientId>
 						</properties>
 					</cloudHubDeployment>
 
